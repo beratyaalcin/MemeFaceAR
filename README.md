@@ -12,9 +12,13 @@ Filtre Uygulama: İşaret parmağının dikey koordinatı analiz edilerek (landm
 
 Stabilite: Sistem, kütüphane çakışmalarını önlemek amacıyla belirli NumPy ve OpenCV sürümleriyle optimize edilmiştir.
 
-Kurulum
-Repoyu klonlayın: git clone https://github.com/beratyaalcin/02-memefaceAR.git
+## Kurulum
+
+Repoyu klonlayın: git clone https://github.com/beratyaalcin/MemeFaceAR
 
 Kütüphaneleri kurun: pip install -r requirements.txt
 
 Çalıştırın: python main.py
+
+---
+\*Bu proje, OpenCV ve MediaPipe kütüphanelerine çalışmak adına geliştirilmiştir.\*
