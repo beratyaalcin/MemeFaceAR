@@ -1,5 +1,4 @@
 ## MemeFace AR
-----
 
 MediaPipe ve OpenCV kütüphaneleri kullanılarak geliştirilmiş, gerçek zamanlı el ve yüz takibi yapan bir artırılmış gerçeklik (AR) uygulamasıdır. Belirlenen el hareketlerine göre kullanıcı yüzüne dinamik filtreler uygular.
 
