@@ -20,5 +20,9 @@ Kütüphaneleri kurun: pip install -r requirements.txt
 
 Çalıştırın: python main.py
 
+## Örnek
+
+![MemeFace AR Uygulama Ekranı](ornek.png)
+
 ---
 \*Bu proje, OpenCV ve MediaPipe kütüphanelerine çalışmak adına geliştirilmiştir.\*
