@@ -2,7 +2,8 @@
 
 MediaPipe ve OpenCV kütüphaneleri kullanılarak geliştirilmiş, gerçek zamanlı el ve yüz takibi yapan bir artırılmış gerçeklik (AR) uygulamasıdır. Belirlenen el hareketlerine göre kullanıcı yüzüne dinamik filtreler uygular.
 
-İşlem adımları
+### İşlem adımları
+
 Görüntü İşleme: OpenCV kütüphanesi aracılığıyla kamera akışı saniyelik kareler halinde yakalanır ve işlenir.
 
 Yapay Zeka Analizi: MediaPipe kütüphanesi kullanılarak el üzerindeki 21 farklı eklem noktası (landmarks) ve yüz çerçevesi gerçek zamanlı olarak tespit edilir.
